@@ -1,0 +1,14 @@
+/* screen - frame-13187 */
+
+.frame-13187 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  min-width: 107px;
+}
+
+.frame-13187 .policy-privacy {
+  letter-spacing: 0;
+  min-height: 19px;
+}

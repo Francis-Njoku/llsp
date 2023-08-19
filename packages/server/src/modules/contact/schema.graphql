@@ -1,0 +1,17 @@
+type SendMessageResponse {
+  errors: [Error]
+  message: String
+}
+
+input MessageInput {
+  name: String!
+  email: String!
+  subject: String!
+  message: String!
+}
+
+type Mutation {
+  sendMessage(
+    input: MessageInput!
+  ): SendMessageResponse!
+}

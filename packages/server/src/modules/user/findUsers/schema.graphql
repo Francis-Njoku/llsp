@@ -1,0 +1,10 @@
+type User {
+    id: ID!
+    user: User!
+    createdOn: String!
+    updatedAt: String
+}
+
+type Query {
+  findUsers: [User!]!
+}

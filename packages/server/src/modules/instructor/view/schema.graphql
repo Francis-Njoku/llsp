@@ -1,0 +1,5 @@
+type Query {
+  viewInstructor(
+    id: String!
+  ): Instructor
+}

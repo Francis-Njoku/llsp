@@ -1,0 +1,4 @@
+<svg id="ico_menu_stations" data-name="ico/menu/stations" xmlns="http://www.w3.org/2000/svg" width="25" height="24.5" viewBox="0 0 25 24.5">
+  <rect id="ico_menu_station_background" data-name="ico/menu/station background" width="24" height="24" fill="none"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M16.5,24.5h-8v-3a4,4,0,0,1,8,0v3h0Zm-7-3v2h6v-2a3,3,0,0,0-6,0ZM0,12.5a12.5,12.5,0,1,1,21.824,8.326l-.746-.667a11.5,11.5,0,1,0-17.154,0l-.745.666A12.455,12.455,0,0,1,0,12.5Zm18.216,4.856a7.5,7.5,0,1,0-11.44-.01l-.763.647A8.5,8.5,0,1,1,18.978,18ZM9,12.5A3.5,3.5,0,1,1,12.5,16,3.5,3.5,0,0,1,9,12.5Zm1,0A2.5,2.5,0,1,0,12.5,10,2.5,2.5,0,0,0,10,12.5Z" fill="#5d6c76"/>
+</svg>

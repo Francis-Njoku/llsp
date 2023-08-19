@@ -1,0 +1,16 @@
+type Enrollment {
+  id: ID!
+  course: Course!
+  paid: Float
+  completed: Boolean!
+  owner: User!
+  createdOn: String!
+  updatedAt: String
+}
+
+type Query {
+  findEnrollments(
+    offset: Int!
+    limit: Int!
+  ): [Enrollment!]!
+}

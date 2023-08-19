@@ -1,0 +1,12 @@
+input UpdateUserInput {
+  firstname: String
+  lastname: String
+  phone: String
+  password: String
+  dob: String
+  gender: String
+}
+
+type Mutation {
+  updateUser(input: UpdateUserInput!): Boolean!
+}

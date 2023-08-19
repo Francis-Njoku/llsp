@@ -1,0 +1,131 @@
+/* screen - login-page-1 */
+
+.login-page-1 {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 851px;
+  padding: 0 97px;
+  width: 1440px;
+}
+
+.login-page-1 .logo {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display-regular);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 3px;
+  margin-top: 49px;
+  min-height: 27px;
+  min-width: 45px;
+}
+
+.login-page-1 .group-13371 {
+  align-items: flex-start;
+  display: flex;
+  height: 528px;
+  margin-left: 272px;
+  margin-top: 161px;
+  min-width: 618px;
+}
+
+.login-page-1 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--whiteffffff);
+  display: flex;
+  flex-direction: column;
+  min-height: 528px;
+  padding: 47px 38px;
+  width: 606px;
+}
+
+.login-page-1 .sign-in-to-your-account {
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 1px;
+  min-height: 32px;
+}
+
+.login-page-1 .overlap-group1-item {
+  letter-spacing: 0;
+  margin-left: 2px;
+  margin-top: 32px;
+  min-height: 19px;
+}
+
+.login-page-1 .overlap-group {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--whiteffffff);
+  display: flex;
+  height: 56px;
+  margin-top: 16px;
+  min-width: 526px;
+  padding: 17px 23px;
+}
+
+.login-page-1 .enter-your-registered-email-address {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.login-page-1 .enter-your-password {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 155px;
+}
+
+.login-page-1 .show {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 284px;
+  min-height: 19px;
+  min-width: 39px;
+}
+
+.login-page-1 .group-13370 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  min-height: 123px;
+  width: 528px;
+}
+
+.login-page-1 .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 526px;
+  padding: 18px 230px;
+}
+
+.login-page-1 .sign-in {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 55px;
+}
+
+.login-page-1 .vector-4 {
+  height: 2px;
+  margin-top: 23px;
+  width: 526px;
+}
+
+.login-page-1 .having-issues-signin {
+  letter-spacing: 0;
+  margin-top: 23px;
+  min-height: 19px;
+}
+
+.login-page-1 .return-to-home-page {
+  letter-spacing: 0;
+  margin-left: 144px;
+  margin-top: 53px;
+  min-height: 19px;
+}

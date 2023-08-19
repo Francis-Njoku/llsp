@@ -1,0 +1,8 @@
+type MutationResponse {
+  errors: [Error!]
+  sessionId: String
+}
+
+type Mutation {
+  deleteCourse(id: String!): MutationResponse!
+}

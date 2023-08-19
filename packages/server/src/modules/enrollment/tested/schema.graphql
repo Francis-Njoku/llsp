@@ -1,0 +1,6 @@
+type Query {
+  testedEnrollments(
+    offset: Int!
+    limit: Int!
+  ): [Enrollment!]!
+}

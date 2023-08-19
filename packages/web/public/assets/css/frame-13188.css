@@ -1,0 +1,14 @@
+/* screen - frame-13188 */
+
+.frame-13188 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  min-width: 159px;
+}
+
+.frame-13188 .terms-and-condition {
+  letter-spacing: 0;
+  min-height: 19px;
+}

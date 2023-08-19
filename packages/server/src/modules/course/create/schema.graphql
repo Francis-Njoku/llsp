@@ -1,0 +1,24 @@
+type MutationResponse {
+  errors: [Error!]
+  sessionId: String
+}
+
+type Mutation {
+  createCourse(
+    pictureUrl: String
+    title: String!
+    summary: String
+    description: String!
+    duration: String!
+    type: String!
+    price: Float!
+    discount: Float
+    instructorId: String!
+    bespokeAvailability: Boolean!
+    assessmentType: String!
+    learningObjectives: String!
+    trainingDates: String!
+    link: String
+    venue: String
+  ): MutationResponse!
+}

@@ -1,0 +1,11 @@
+<svg id="ico_playback_Play" data-name="ico/playback/Play" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="229" height="229" viewBox="0 0 229 229">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M31.984,186.417A109.2,109.2,0,0,1,186.417,31.984,109.2,109.2,0,0,1,31.984,186.417Zm9.65-144.783A95.55,95.55,0,0,0,176.761,176.761,95.55,95.55,0,0,0,41.633,41.633ZM81.9,61.424,156.976,109.2,81.9,156.976Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <rect id="ico_playback_Play_background" data-name="ico/playback/Play background" width="229" height="229" fill="none"/>
+  <g id="Group_48" data-name="Group 48" transform="translate(5.3 5.3)">
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M31.984,186.417A109.2,109.2,0,0,1,186.417,31.984,109.2,109.2,0,0,1,31.984,186.417Zm9.65-144.783A95.55,95.55,0,0,0,176.761,176.761,95.55,95.55,0,0,0,41.633,41.633ZM81.9,61.424,156.976,109.2,81.9,156.976Z" fill="#fff"/>
+  </g>
+</svg>

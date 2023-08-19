@@ -1,0 +1,1431 @@
+/* screen - home-page-enterprise */
+
+.home-page-enterprise {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  flex-direction: column;
+  height: 2933px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home-page-enterprise .overlap-group8 {
+  height: 3809px;
+  margin-left: -417px;
+  margin-top: -876px;
+  position: relative;
+  width: 2354px;
+}
+
+.home-page-enterprise .group-13101 {
+  height: 2556px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2354px;
+}
+
+.home-page-enterprise .group-13222 {
+  height: 2px;
+  left: 518px;
+  position: absolute;
+  top: 966px;
+  width: 1237px;
+}
+
+.home-page-enterprise .text-145 {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: 52px;
+  font-weight: 700;
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  top: 1157px;
+  width: 592px;
+}
+
+.home-page-enterprise .text-146 {
+  color: var(--alabaster);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1317px;
+  width: 585px;
+}
+
+.home-page-enterprise .group-11 {
+  align-items: center;
+  display: flex;
+  height: 28px;
+  left: 517px;
+  min-width: 254px;
+  position: absolute;
+  top: 1527px;
+}
+
+.home-page-enterprise .overlap-group {
+  height: 28px;
+  position: relative;
+  width: 33px;
+}
+
+.home-page-enterprise .check-1-2 {
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.home-page-enterprise .rectangle-5 {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.home-page-enterprise .text-147 {
+  color: #ffffffcc;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 22px;
+  min-width: 207px;
+}
+
+.home-page-enterprise .group-13297 {
+  align-items: center;
+  background-color: var(--primary-colour45b5e3);
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  left: 517px;
+  min-width: 224px;
+  padding: 0 26px;
+  position: absolute;
+  top: 1439px;
+}
+
+.home-page-enterprise .explore-courses {
+  letter-spacing: 0;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 120px;
+}
+
+.home-page-enterprise .iconly-bold-arrow-right-square {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 28px;
+  min-width: 24px;
+}
+
+.home-page-enterprise .iconly-bold-arrow-right-square-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+  padding: 2.0px 2.0px;
+}
+
+.home-page-enterprise .arrow-right-square {
+  background-image: url(../img/arrow---right-square-2@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  width: 20px;
+}
+
+.home-page-enterprise .frame-13159 {
+  align-items: center;
+  background-color: var(--picton-blue-2);
+  border-radius: 30px;
+  display: flex;
+  height: 42px;
+  left: 517px;
+  min-width: 291px;
+  padding: 0 28.5px;
+  position: absolute;
+  top: 1094px;
+}
+
+.home-page-enterprise .text-148 {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 234px;
+  color: #fff;
+}
+
+.home-page-enterprise .frame-12292 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 90px;
+  justify-content: flex-end;
+  left: 417px;
+  min-width: 1439px;
+  padding: 19px 98px;
+  position: absolute;
+  top: 876px;
+}
+
+.home-page-enterprise .lspr-ng-white-01 {
+  height: 20px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.home-page-enterprise .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 265px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 46px;
+}
+
+.home-page-enterprise .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 69px;
+}
+
+.home-page-enterprise .group-13384 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  min-height: 35px;
+  width: 80px;
+}
+
+.home-page-enterprise .place-1 {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  min-height: 19px;
+  min-width: 78px;
+}
+
+.home-page-enterprise .ellipse-24 {
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 4px;
+  height: 8px;
+  margin-right: 6.0px;
+  margin-top: 8px;
+  width: 8px;
+}
+
+.home-page-enterprise .our-courses {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 30px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 90px;
+}
+
+.home-page-enterprise .contact-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 84px;
+}
+
+.home-page-enterprise .group-13427 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 174px;
+  min-width: 49px;
+}
+
+.home-page-enterprise .overlap-group1 {
+  height: 48px;
+  position: relative;
+  width: 49px;
+}
+
+.home-page-enterprise .group-13375 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 22.08px;
+  display: flex;
+  height: 44px;
+  left: 0;
+  min-width: 44px;
+  padding: 10.6px 10.6px;
+  position: absolute;
+  top: 4px;
+}
+
+.home-page-enterprise .frame {
+  height: 23px;
+  width: 23px;
+}
+
+.home-page-enterprise .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 9.6px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  left: 30px;
+  min-width: 19px;
+  padding: 1.8px 6.2px;
+  position: absolute;
+  top: 0;
+}
+
+.home-page-enterprise .number {
+  letter-spacing: 0;
+  min-height: 15px;
+  width: 7px;
+}
+
+.home-page-enterprise .group-13219 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 24px;
+  min-width: 127px;
+}
+
+.home-page-enterprise .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--primary-colour45b5e3);
+  display: flex;
+  height: 48px;
+  min-width: 125px;
+  padding: 14px 35px;
+}
+
+.home-page-enterprise .sign-in {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.home-page-enterprise .rectangle-668 {
+  height: 539px;
+  left: 1242px;
+  position: absolute;
+  top: 1059px;
+  width: 512px;
+}
+
+.home-page-enterprise .rectangle-12 {
+  background-color: var(--zircon);
+  height: 2064px;
+  left: 417px;
+  position: absolute;
+  top: 1681px;
+  width: 1440px;
+}
+
+.home-page-enterprise .we-believe-that {
+  left: 516px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1817px;
+}
+
+.home-page-enterprise .text-149 {
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 1852px;
+  width: 501px;
+}
+
+.home-page-enterprise .group-13551 {
+  align-items: flex-start;
+  display: flex;
+  height: 196px;
+  left: 517px;
+  min-width: 1235px;
+  position: absolute;
+  top: 2008px;
+}
+
+.home-page-enterprise .group-13320 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 169px;
+  width: 387px;
+}
+
+.home-page-enterprise .discount-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.home-page-enterprise .group-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 97px;
+  width: 391px;
+}
+
+.home-page-enterprise .discounted-rate {
+  letter-spacing: 0;
+  min-height: 27px;
+}
+
+.home-page-enterprise .text-15 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 54px;
+  width: 387px;
+}
+
+.home-page-enterprise .group-13550 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  min-height: 196px;
+  width: 387px;
+}
+
+.home-page-enterprise .group {
+  height: 48px;
+  margin-left: -0.34px;
+  width: 41px;
+}
+
+.home-page-enterprise .group-13301 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  min-height: 124px;
+  width: 391px;
+}
+
+.home-page-enterprise .flexible-learning {
+  letter-spacing: 0;
+  min-height: 27px;
+}
+
+.home-page-enterprise .text-150 {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 16px;
+  min-height: 81px;
+  width: 387px;
+}
+
+.home-page-enterprise .group-13324 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  min-height: 169px;
+  width: 387px;
+}
+
+.home-page-enterprise .teacher-at-the-blackboard {
+  height: 48px;
+  width: 48px;
+}
+
+.home-page-enterprise .text-153 {
+  letter-spacing: 0;
+  min-height: 27px;
+}
+
+.home-page-enterprise .rectangle-13 {
+  background-color: var(--whiteffffff);
+  height: 1517px;
+  left: 417px;
+  position: absolute;
+  top: 2292px;
+  width: 1440px;
+}
+
+.home-page-enterprise .course-section {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1241px;
+}
+
+.home-page-enterprise .frame-13162 {
+  align-items: center;
+  background-color: var(--whiteffffff);
+  box-shadow: 0px 4px 35px #dbdbdb40;
+  display: flex;
+  flex-direction: column;
+  left: 517px;
+  min-height: 685px;
+  padding: 16px 0;
+  position: relative;
+  top: 2605px;
+  width: 387px;
+  margin: 0 1% 15px;
+}
+
+.home-page-enterprise .frame-13178 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 559px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-13177-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 347px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-13176 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 303px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-13175 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 287px;
+  width: 355px;
+}
+
+.home-page-enterprise .group-13399 {
+  /* background-image: url(../img/rectangle-652-6@2x.png); */
+  background-position: 100% 100%;
+  background-size: cover;
+  height: 242px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-13056 {
+  align-items: center;
+  display: flex;
+  margin-top: 16px;
+  width: 355px;
+}
+
+.home-page-enterprise .x-day-course {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 145px;
+}
+
+.home-page-enterprise .frame-13053 {
+  align-items: center;
+  display: flex;
+  height: 29px;
+  margin-left: 13px;
+  min-width: 168px;
+}
+
+.home-page-enterprise .n60000 {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 67px;
+  text-decoration: line-through;
+}
+
+.home-page-enterprise .n50000 {
+  letter-spacing: 0;
+  margin-left: 8px;
+  min-height: 29px;
+  min-width: 93px;
+}
+
+.home-page-enterprise .span0 {
+  text-decoration: line-through;
+}
+
+.home-page-enterprise .vector-276 {
+  height: 2px;
+  margin-top: 15px;
+  width: 355px;
+}
+
+.home-page-enterprise .text-157 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 16px;
+  min-height: 28px;
+  white-space: normal;
+}
+
+.home-page-enterprise .text-158 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 16px;
+  min-height: 196px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-12303 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 3.0px;
+  margin-top: 24px;
+  min-width: 352px;
+}
+
+.home-page-enterprise .frame-12299 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 48px;
+  min-width: 206px;
+  padding: 0;
+}
+
+.home-page-enterprise .enrol-team-members {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 160px;
+}
+
+.home-page-enterprise .frame-12302 {
+  align-items: center;
+  display: flex;
+  height: 48px;
+  margin-left: 8px;
+  min-width: 138px;
+  padding: 0 24px;
+}
+
+.home-page-enterprise .add-to-cart {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 90px;
+}
+
+.home-page-enterprise .text-159 {
+  left: 517px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 2402px;
+}
+
+.home-page-enterprise .text-160 {
+  left: 517px;
+  letter-spacing: 0;
+  line-height: 54px;
+  position: absolute;
+  top: 2429px;
+  width: 656px;
+}
+
+.home-page-enterprise .frame-13160 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  left: 1574px;
+  min-width: 181px;
+  padding: 0 29.5px;
+  position: absolute;
+  top: 2442px;
+}
+
+.home-page-enterprise .view-all-courses {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 122px;
+}
+
+.home-page-enterprise .frame-13163 {
+  align-items: center;
+  background-color: var(--whiteffffff);
+  box-shadow: 0px 4px 35px #dbdbdb40;
+  display: flex;
+  flex-direction: column;
+  left: 944px;
+  min-height: 685px;
+  padding: 16px 0;
+  position: absolute;
+  top: 2605px;
+  width: 387px;
+}
+
+.home-page-enterprise .frame-13177 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 375px;
+  width: 355px;
+}
+
+.home-page-enterprise .group-13399-1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-652-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 242px;
+  min-width: 355px;
+  padding: 0 0.0px;
+}
+
+.home-page-enterprise .frame-12303-1 {
+  align-items: center;
+  background-color: var(--pomegranate);
+  display: flex;
+  height: 29px;
+  min-width: 84px;
+  padding: 0 15px;
+}
+
+.home-page-enterprise .bestseller {
+  letter-spacing: 0;
+  min-height: 14px;
+  min-width: 54px;
+}
+
+.home-page-enterprise .text-16 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 16px;
+  min-height: 56px;
+  width: 355px;
+}
+
+.home-page-enterprise .text-16-1 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 16px;
+  min-height: 168px;
+  width: 355px;
+}
+
+.home-page-enterprise .frame-13164 {
+  align-items: center;
+  background-color: var(--whiteffffff);
+  box-shadow: 0px 4px 35px #dbdbdb40;
+  display: flex;
+  flex-direction: column;
+  left: 1371px;
+  min-height: 685px;
+  padding: 16px 0;
+  position: absolute;
+  top: 2605px;
+  width: 387px;
+}
+
+.home-page-enterprise .group-13399-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-652-8@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 242px;
+  min-width: 355px;
+  padding: 0 0.0px;
+}
+
+.home-page-enterprise .group-13852 {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 287px;
+  left: 517px;
+  width: 1240px;
+  position: absolute;
+  top: 3450px;
+}
+
+.home-page-enterprise .overlap-group1-1 {
+  align-items: center;
+  background-image: url(../img/mask-group-4@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 287px;
+  padding: 27px 0;
+  width: 1240px;
+}
+
+.home-page-enterprise .get-in-touch {
+  letter-spacing: 0;
+  margin-right: 8.0px;
+  min-height: 37px;
+  min-width: 166px;
+}
+
+.home-page-enterprise .text-165 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: 14px;
+  min-height: 78px;
+  text-align: center;
+  width: 454px;
+}
+
+.home-page-enterprise .group-13325 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-width: 182px;
+}
+
+.home-page-enterprise .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  display: flex;
+  height: 56px;
+  min-width: 180px;
+  padding: 18px 48px;
+}
+
+.home-page-enterprise .contact-us-1 {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 84px;
+}
+
+.home-page-enterprise .group-13672 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.home-page-enterprise .overlap-group7 {
+  height: 800px;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page-enterprise .rectangle-650 {
+  background-color: var(--zircon);
+  height: 330px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page-enterprise .group-13669 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 800px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page-enterprise .group-13665 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-3@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 330px;
+  min-width: 1440px;
+  padding: 31.9px 133px;
+}
+
+.home-page-enterprise .group-13661 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.0px;
+  min-height: 182px;
+  width: 429px;
+}
+
+.home-page-enterprise .text-154 {
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 96px;
+  width: 427px;
+}
+
+.home-page-enterprise .frame-12247 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  margin-top: 32px;
+  min-width: 190px;
+  padding: 0 35px;
+}
+
+.home-page-enterprise .explore-courses-1 {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 120px;
+}
+
+.home-page-enterprise .overlap-group6 {
+  height: 266px;
+  margin-left: 482px;
+  position: relative;
+  width: 262px;
+}
+
+.home-page-enterprise .ellipse-30 {
+  height: 263px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 262px;
+}
+
+.home-page-enterprise .ellipse-31 {
+  height: 220px;
+  left: 46px;
+  position: absolute;
+  top: 25px;
+  width: 195px;
+}
+
+.home-page-enterprise .ellipse-32 {
+  height: 172px;
+  left: 46px;
+  position: absolute;
+  top: 48px;
+  width: 160px;
+}
+
+.home-page-enterprise .ellipse-33 {
+  height: 124px;
+  left: 137px;
+  position: absolute;
+  top: 73px;
+  width: 56px;
+}
+
+.home-page-enterprise .ellipse-34 {
+  height: 91px;
+  left: 87px;
+  position: absolute;
+  top: 89px;
+  width: 89px;
+}
+
+.home-page-enterprise .overlap-group-4 {
+  height: 36px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.home-page-enterprise .ellipse-3 {
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.home-page-enterprise .group-13051 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 24px;
+  min-width: 14px;
+  padding: 2.2px 2.2px;
+  position: absolute;
+  top: 22px;
+}
+
+.home-page-enterprise .check-1 {
+  height: 10px;
+  width: 10px;
+}
+
+.home-page-enterprise .overlap-group1-2 {
+  height: 45px;
+  left: 26px;
+  position: absolute;
+  top: 96px;
+  width: 44px;
+}
+
+.home-page-enterprise .ellipse-40 {
+  height: 44px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.home-page-enterprise .group-13052 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 29px;
+  min-width: 14px;
+  padding: 2.7px 2.2px;
+  position: absolute;
+  top: 31px;
+}
+
+.home-page-enterprise .check-1-1 {
+  height: 9px;
+  width: 10px;
+}
+
+.home-page-enterprise .overlap-group2 {
+  height: 38px;
+  left: 165px;
+  position: absolute;
+  top: 45px;
+  width: 36px;
+}
+
+.home-page-enterprise .group-13053 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 21px;
+  min-width: 14px;
+  padding: 2.2px 2.7px;
+  position: absolute;
+  top: 24px;
+}
+
+.home-page-enterprise .check-1-3 {
+  height: 10px;
+  width: 9px;
+}
+
+.home-page-enterprise .overlap-group3 {
+  height: 39px;
+  left: 204px;
+  position: absolute;
+  top: 162px;
+  width: 36px;
+}
+
+.home-page-enterprise .group-13054 {
+  align-items: flex-start;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  justify-content: flex-end;
+  left: 21px;
+  min-width: 14px;
+  padding: 2.7px 2.2px;
+  position: absolute;
+  top: 25px;
+}
+
+.home-page-enterprise .overlap-group4 {
+  height: 38px;
+  left: 113px;
+  position: absolute;
+  top: 117px;
+  width: 43px;
+}
+
+.home-page-enterprise .group-13056 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  left: 28px;
+  min-width: 14px;
+  padding: 2.7px 2.7px;
+  position: absolute;
+  top: 24px;
+}
+
+.home-page-enterprise .check-1-4 {
+  height: 9px;
+  width: 9px;
+}
+
+.home-page-enterprise .overlap-group5 {
+  height: 36px;
+  left: 87px;
+  position: absolute;
+  top: 220px;
+  width: 41px;
+}
+
+.home-page-enterprise .group-13055 {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 7.16px;
+  display: flex;
+  height: 14px;
+  left: 27px;
+  min-width: 14px;
+  padding: 2.2px 2.2px;
+  position: absolute;
+  top: 17px;
+}
+
+.home-page-enterprise .component-3 {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  flex-direction: column;
+  min-height: 470px;
+  padding: 28px 99px;
+  width: 1440px;
+}
+
+.home-page-enterprise .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 241px;
+  margin-left: 0.95px;
+  margin-top: 43px;
+  min-width: 1238px;
+}
+
+.home-page-enterprise .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 193px;
+  width: 399px;
+}
+
+.home-page-enterprise .lspr-ng-white-01-1 {
+  height: 23px;
+  object-fit: cover;
+  width: 124px;
+}
+
+.home-page-enterprise .text-156 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 0.05px;
+  margin-top: 24px;
+  min-height: 78px;
+  width: 399px;
+}
+
+.home-page-enterprise .group-13515 {
+  height: 44px;
+  margin-left: 0.05px;
+  margin-top: 24px;
+  width: 248px;
+}
+
+.home-page-enterprise .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 180px;
+  min-height: 232px;
+  width: 175px;
+}
+
+.home-page-enterprise .our-links {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.home-page-enterprise .vector-2 {
+  height: 2px;
+  margin-top: 11px;
+  width: 110px;
+}
+
+.home-page-enterprise .place-2 {
+  letter-spacing: 0;
+  margin-top: 23px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .flex-col-item {
+  letter-spacing: 0;
+  margin-top: 20px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 75px;
+  margin-top: 9px;
+  min-height: 111px;
+  width: 112px;
+}
+
+.home-page-enterprise .group-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 33px;
+  width: 112px;
+}
+
+.home-page-enterprise .support {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.home-page-enterprise .faq {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .contact-us-2 {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 138px;
+  margin-top: 9px;
+  min-height: 111px;
+  width: 159px;
+}
+
+.home-page-enterprise .place-3 {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.home-page-enterprise .policy-privacy {
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .terms-and-condition {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 19px;
+}
+
+.home-page-enterprise .group-13218 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 87px;
+  min-height: 43px;
+  width: 1241px;
+}
+
+.home-page-enterprise .vector-3 {
+  height: 2px;
+  margin-right: 2.0px;
+  margin-top: -1px;
+  width: 1239px;
+}
+
+.home-page-enterprise .address {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 23px;
+  min-height: 19px;
+  min-width: 295px;
+}
+
+@media (max-width: 600px) {
+  .home-page-enterprise {
+    width: 390px; 
+    height: 4780px;   
+  }
+
+  .home-page-enterprise .we-believe-that {
+    left: 601px;
+  }
+
+  .home-page-enterprise .frame-13159 {
+    left: 528px;
+  }
+
+  .home-page-enterprise .group-13222 {
+    left: 347px;
+    width: 500px;
+  }
+
+  .h-section {
+    position: relative;
+    display: flex;
+    left: -65px;
+  }
+
+  .home-page-enterprise .text-145 {
+    font-size: 42px;
+    line-height: 48px;
+    width: 310px;
+    text-align: center;
+  }
+
+  .home-page-enterprise .text-146 {
+    line-height: 24px;
+    width: 310px;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .home-page-enterprise .group-13297 {
+    left: 558px;
+  }
+
+  .home-page-enterprise .group-11 {
+    left: 547px;
+  }
+
+  .home-page-enterprise .rectangle-668 {
+    display: none;
+  }
+
+  .home-page-enterprise .group-13852 {
+    height: 345px;
+    left: 440px;
+    width: 342px;
+    top: 5250px;
+  }
+
+  .home-page-enterprise .overlap-group1-1 {
+    background-size: cover;
+    width: 342px;
+  }
+
+  .home-page-enterprise .text-165 {
+    width: 316px;
+  }
+
+  .h-text {
+    position: relative;
+    display: flex;
+    left: -70px;
+  }
+
+  .home-page-enterprise .text-149 {
+    line-height: 34px;
+    width: 330px;
+    text-align: center;
+  }
+
+  .home-page-enterprise .group-13550 {
+    margin-left: -387px;
+    margin-top: 215px;
+  }
+
+  .home-page-enterprise .group-13324 {
+    margin-left: -387px;
+    margin-top: 437px;
+  }
+  
+  .home-page-enterprise .text-15,
+  .home-page-enterprise .text-150
+  {
+    width: 300px;
+  }
+
+  .home-page-enterprise .rectangle-13 {
+    top: 2710px;
+    height: 2950px;
+  }
+
+  .home-page-enterprise .course-section {
+    position: relative;
+    top: 376px;
+    left: -70px;
+    display: block;
+  }
+
+  .home-page-enterprise .text-160 {
+    line-height: 34px;
+    width: 329px;
+    text-align: center;
+  }
+
+  .home-page-enterprise .text-159 {
+    font-size: 14px;
+    left: 548px;
+  }
+
+  .home-page-enterprise .frame-13162 {
+    height: 711px;
+    width: 336px;
+    margin: 0 15px 40px 0;
+  }
+
+  .home-page-enterprise .frame-13178,
+  .home-page-enterprise .frame-13177-1,
+  .home-page-enterprise .frame-13176,
+  .home-page-enterprise .frame-13175,
+  .home-page-enterprise .group-13399,
+  .home-page-enterprise .frame-13056,
+  .home-page-enterprise .vector-276,
+  .home-page-enterprise .text-158,
+  .home-page-enterprise .frame-12303 {
+    width: 302px;
+  }
+
+  .home-page-enterprise .frame-13053 {
+    left: 134px;
+    margin-left: -28px;
+  }
+
+  .home-page-enterprise .frame-12299 {
+    min-width: 136px;
+  }
+
+  .home-page-enterprise .enrol-team-members {
+    letter-spacing: 0;
+    min-height: 19px;
+    min-width: 108px;
+  }
+
+  .home-page-enterprise .frame-12302 {
+    margin-left: 11px;
+  }
+
+  .home-page-enterprise .frame-12303 {
+    min-width: 302px;
+  }
+}

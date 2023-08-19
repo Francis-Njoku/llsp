@@ -1,0 +1,22 @@
+/* screen - frame-13185 */
+
+.frame-13185 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 19px;
+  min-width: 44px;
+}
+
+#overlay-frame-13185 {
+  background-color: transparent;
+}
+
+.overlay .frame-13185 {
+  background-color: #00000000;
+}
+
+.frame-13185 .faq {
+  letter-spacing: 0;
+  min-height: 19px;
+}

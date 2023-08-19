@@ -1,0 +1,7 @@
+<svg id="ico_menu_history_copy" data-name="ico/menu/history copy" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="ico_menu_fav_background" data-name="ico/menu/fav background" width="24" height="24" fill="none"/>
+  <g id="Path" transform="translate(6 3.5)" fill="none" stroke-miterlimit="10">
+    <path d="M.009,0V2L0,18l6-3,6,3V0Z" stroke="none"/>
+    <path d="M 1.008569717407227 1 L 1.008569717407227 2.000539779663086 L 1.000866889953613 16.38153076171875 L 5.55279016494751 14.10556983947754 L 6 13.8819694519043 L 6.44720983505249 14.10556983947754 L 11 16.38196563720703 L 11 1 L 1.008569717407227 1 M 0.008569717407226563 0 L 12 0 L 12 18 L 6 15 L 0 18 L 0.008569717407226563 2 L 0.008569717407226563 0 Z" stroke="none" fill="#5d6c76"/>
+  </g>
+</svg>

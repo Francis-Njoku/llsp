@@ -1,0 +1,20 @@
+<svg id="ico_menu_charts" data-name="ico/menu/charts" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <rect id="ico_menu_chart_background" data-name="ico/menu/chart background" width="22" height="22" fill="none"/>
+  <g id="withdraw" transform="translate(3 -28.002)">
+    <g id="Group_137" data-name="Group 137" transform="translate(5.004 37.658)">
+      <g id="Group_136" data-name="Group 136" transform="translate(-0.001 0)">
+        <path id="Path_67" data-name="Path 67" d="M148.371,195.685a.283.283,0,0,1-.4,0l-2.717-2.718v7.8a.283.283,0,1,1-.566,0v-7.8l-2.717,2.718a.283.283,0,1,1-.4-.4l3.2-3.2a.283.283,0,0,1,.4,0h0l3.2,3.2A.283.283,0,0,1,148.371,195.685Z" transform="translate(-141.487 -192.001)" fill="#5d6c76"/>
+      </g>
+    </g>
+    <g id="Group_139" data-name="Group 139" transform="translate(0 32.001)">
+      <g id="Group_138" data-name="Group 138" transform="translate(0 0)">
+        <path id="Path_68" data-name="Path 68" d="M16.124,32H.849A.849.849,0,0,0,0,32.85V43.033a.849.849,0,0,0,.849.849H3.677a.283.283,0,1,0,0-.566H.849a.283.283,0,0,1-.283-.283V35.4H16.407v7.638a.283.283,0,0,1-.283.283H13.3a.283.283,0,1,0,0,.566h2.829a.849.849,0,0,0,.849-.849V32.85A.849.849,0,0,0,16.124,32Zm.283,2.263H.566V32.85a.283.283,0,0,1,.283-.283H16.124a.283.283,0,0,1,.283.283Z" transform="translate(0 -32.001)" fill="#5d6c76"/>
+      </g>
+    </g>
+    <g id="Group_141" data-name="Group 141" transform="translate(1.697 35.961)">
+      <g id="Group_140" data-name="Group 140">
+        <path id="Path_69" data-name="Path 69" d="M54.506,144H48.283a.283.283,0,1,0,0,.566h6.223a.283.283,0,1,0,0-.566Z" transform="translate(-48 -144.001)" fill="#5d6c76"/>
+      </g>
+    </g>
+  </g>
+</svg>

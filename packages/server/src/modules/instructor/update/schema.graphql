@@ -1,0 +1,19 @@
+type UpdateInstructorResponse {
+  errors: [Error!]
+  message: String
+}
+
+input UpdateInstructorInput {
+  pictureUrl: String
+  name: String
+  linkedInUrl: String
+  title: String
+  description: String
+}
+
+type Mutation {
+  updateInstructor(
+    instructorId: String!
+    input: UpdateInstructorInput!
+  ): UpdateInstructorResponse!
+}

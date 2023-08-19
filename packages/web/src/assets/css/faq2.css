@@ -1,0 +1,646 @@
+/* screen - faq2 */
+
+.faq2 {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 2569px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.faq2 .overlap-group2 {
+  height: 3775px;
+  margin-left: -340px;
+  margin-top: -1206.09px;
+  position: relative;
+  width: 2354px;
+}
+
+.faq2 .group-13174 {
+  height: 2556px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2354px;
+}
+
+.faq2 .rectangle-14 {
+  background-color: var(--whiteffffff);
+  height: 1894px;
+  left: 340px;
+  position: absolute;
+  top: 1545px;
+  width: 1440px;
+}
+
+.faq2 .group-13388 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 341px;
+  min-height: 91px;
+  position: absolute;
+  top: 1206px;
+  width: 1439px;
+}
+
+.faq2 .frame-13174 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 90px;
+  justify-content: flex-end;
+  min-width: 1439px;
+  padding: 0 98px;
+}
+
+.faq2 .lspr-ng-white-01 {
+  height: 20px;
+  object-fit: cover;
+  width: 108px;
+}
+
+.faq2 .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 265px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 46px;
+}
+
+.faq2 .about-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 69px;
+}
+
+.faq2 .place-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 78px;
+}
+
+.faq2 .our-courses {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 90px;
+}
+
+.faq2 .contact-us {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  min-height: 19px;
+  min-width: 84px;
+}
+
+.faq2 .group-13428 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 174px;
+  min-width: 49px;
+}
+
+.faq2 .overlap-group1 {
+  height: 48px;
+  position: relative;
+  width: 49px;
+}
+
+.faq2 .group-13375 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 22.08px;
+  display: flex;
+  height: 44px;
+  left: 0;
+  min-width: 44px;
+  padding: 10.6px 10.6px;
+  position: absolute;
+  top: 4px;
+}
+
+.faq2 .frame {
+  height: 23px;
+  width: 23px;
+}
+
+.faq2 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--primary-colour45b5e3);
+  border-radius: 9.6px;
+  display: flex;
+  height: 19px;
+  justify-content: flex-end;
+  left: 30px;
+  min-width: 19px;
+  padding: 1.8px 6.2px;
+  position: absolute;
+  top: 0;
+}
+
+.faq2 .number {
+  letter-spacing: 0;
+  min-height: 15px;
+  width: 7px;
+}
+
+.faq2 .group-13219 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 24px;
+  min-width: 127px;
+}
+
+.faq2 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--primary-colour45b5e3);
+  display: flex;
+  height: 48px;
+  min-width: 125px;
+  padding: 14px 35px;
+}
+
+.faq2 .sign-in {
+  letter-spacing: 0;
+  min-height: 19px;
+}
+
+.faq2 .vector-283 {
+  height: 2px;
+  width: 1237px;
+}
+
+.faq2 .text-464 {
+  left: 807px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1402px;
+}
+
+.faq2 .faq {
+  left: 1041px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1372px;
+}
+
+.faq2 .about-lspr-nigeria {
+  cursor: pointer;
+  left: 489px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1626px;
+}
+
+.faq2 .courses {
+  cursor: pointer;
+  left: 778px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1626px;
+}
+
+.faq2 .certificate {
+  cursor: pointer;
+  left: 985px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1626px;
+}
+
+.faq2 .account-and-profile {
+  left: 1190px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1626px;
+}
+
+.faq2 .payment-and-billing {
+  cursor: pointer;
+  left: 1449px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1626px;
+}
+
+.faq2 .vector-284 {
+  height: 2px;
+  left: 441px;
+  position: absolute;
+  top: 1665px;
+  width: 1237px;
+}
+
+.faq2 .vector-285 {
+  height: 2px;
+  left: 1183px;
+  position: absolute;
+  top: 1665px;
+  width: 186px;
+}
+
+.faq2 .rectangle-672 {
+  background-color: var(--zircon);
+  border-radius: 4px;
+  height: 201px;
+  left: 653px;
+  position: absolute;
+  top: 1730px;
+  width: 814px;
+}
+
+.faq2 .group-13441 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 1924px;
+  width: 884px;
+}
+
+.faq2 .group-13442 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 2038px;
+  width: 884px;
+}
+
+.faq2 .group-13443 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 2152px;
+  width: 884px;
+}
+
+.faq2 .group-13444 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 2266px;
+  width: 884px;
+}
+
+.faq2 .group-13445 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 2380px;
+  width: 884px;
+}
+
+.faq2 .group-13446 {
+  height: 160px;
+  left: 618px;
+  position: absolute;
+  top: 2494px;
+  width: 884px;
+}
+
+.faq2 .group-13432 {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  left: 685px;
+  min-width: 752px;
+  position: absolute;
+  top: 1754px;
+}
+
+.faq2 .text-465 {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 265px;
+}
+
+.faq2 .frame-1 {
+  height: 40px;
+  margin-left: 445px;
+  width: 40px;
+}
+
+.faq2 .text-466 {
+  left: 686px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1810px;
+  width: 748px;
+}
+
+.faq2 .group-13514 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 340px;
+  min-height: 1112px;
+  position: absolute;
+  top: 2663px;
+  width: 1440px;
+}
+
+.faq2 .group-13513 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  min-height: 194px;
+  width: 523px;
+}
+
+.faq2 .group-13439 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  min-height: 115px;
+  width: 527px;
+}
+
+.faq2 .text-467 {
+  letter-spacing: 0;
+  margin-right: 3.0px;
+  min-height: 43px;
+  min-width: 310px;
+}
+
+.faq2 .text-468 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-right: 4.0px;
+  margin-top: 16px;
+  min-height: 56px;
+  text-align: center;
+  width: 523px;
+}
+
+.faq2 .frame-13196 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  height: 55px;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-width: 249px;
+  padding: 0 82.5px;
+}
+
+.faq2 .contact-us-1 {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 84px;
+}
+
+.faq2 .group-13512 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 146px;
+  min-height: 772px;
+  width: 1446px;
+}
+
+.faq2 .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--zircon);
+  display: flex;
+  flex-direction: column;
+  min-height: 302px;
+  padding: 55px 0;
+  width: 1440px;
+}
+
+.faq2 .enrol-now {
+  letter-spacing: 0;
+  margin-left: 100px;
+  min-height: 22px;
+}
+
+.faq2 .flex-row {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  height: 84px;
+  margin-top: 8px;
+  min-width: 1240px;
+}
+
+.faq2 .text-470 {
+  letter-spacing: 0;
+  line-height: 42px;
+  min-height: 84px;
+  width: 405px;
+}
+
+.faq2 .text-469 {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 130px;
+  margin-top: 8.0px;
+  min-height: 60px;
+  width: 705px;
+}
+
+.faq2 .frame-12247 {
+  align-items: center;
+  background-color: var(--primary-colour1f365d);
+  cursor: pointer;
+  display: flex;
+  height: 54px;
+  margin-left: 100px;
+  margin-top: 24px;
+  min-width: 187px;
+  padding: 0 35px;
+}
+
+.faq2 .explore-courses {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 117px;
+}
+
+.faq2 .component-2 {
+  align-items: flex-start;
+  background-color: var(--primary-colour1f365d);
+  display: flex;
+  flex-direction: column;
+  min-height: 470px;
+  padding: 28px 99px;
+  width: 1440px;
+}
+
+.faq2 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 241px;
+  margin-left: 0.95px;
+  margin-top: 43px;
+  min-width: 1238px;
+}
+
+.faq2 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 193px;
+  width: 399px;
+}
+
+.faq2 .lspr-ng-white-01-1 {
+  height: 23px;
+  object-fit: cover;
+  width: 124px;
+}
+
+.faq2 .text-472 {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 0.05px;
+  margin-top: 24px;
+  min-height: 78px;
+  width: 399px;
+}
+
+.faq2 .group-13515 {
+  height: 44px;
+  margin-left: 0.05px;
+  margin-top: 24px;
+  width: 248px;
+}
+
+.faq2 .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 180px;
+  min-height: 232px;
+  width: 175px;
+}
+
+.faq2 .our-links {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.faq2 .vector-2 {
+  height: 2px;
+  margin-top: 11px;
+  width: 110px;
+}
+
+.faq2 .place-2 {
+  letter-spacing: 0;
+  margin-top: 23px;
+  min-height: 19px;
+}
+
+.faq2 .flex-col-item {
+  letter-spacing: 0;
+  margin-top: 20px;
+  min-height: 19px;
+}
+
+.faq2 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 75px;
+  margin-top: 9px;
+  min-height: 111px;
+  width: 112px;
+}
+
+.faq2 .group-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 33px;
+  width: 112px;
+}
+
+.faq2 .support {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.faq2 .faq-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 19px;
+}
+
+.faq2 .contact-us-2 {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 19px;
+}
+
+.faq2 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 138px;
+  margin-top: 9px;
+  min-height: 111px;
+  width: 159px;
+}
+
+.faq2 .place-3 {
+  letter-spacing: 0;
+  min-height: 21px;
+}
+
+.faq2 .policy-privacy {
+  letter-spacing: 0;
+  margin-top: 24px;
+  min-height: 19px;
+}
+
+.faq2 .terms-and-condition {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 19px;
+}
+
+.faq2 .group-13218 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 87px;
+  min-height: 43px;
+  width: 1241px;
+}
+
+.faq2 .vector-3 {
+  height: 2px;
+  margin-right: 2.0px;
+  margin-top: -1px;
+  width: 1239px;
+}
+
+.faq2 .address {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 23px;
+  min-height: 19px;
+  min-width: 295px;
+}

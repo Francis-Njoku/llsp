@@ -1,0 +1,22 @@
+/* screen - frame-13195 */
+
+.frame-13195 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 48px;
+}
+
+.frame-13195 .group-13463 {
+  align-items: center;
+  background-color: #ffebe9;
+  border-radius: 24px;
+  display: flex;
+  height: 48px;
+  min-width: 48px;
+  padding: 0 9px;
+}
+
+.frame-13195 .frame {
+  height: 30px;
+  width: 30px;
+}

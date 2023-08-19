@@ -1,0 +1,16 @@
+type PaymentResponse {
+  errors: [Error!]
+  message: String
+}
+
+type Mutation {
+  initiatePayment(
+    id: String!
+    email: String!
+    firstname: String
+    lastname: String
+    phone: String
+    amount: Float!
+    reference: String!
+  ): PaymentResponse!
+}

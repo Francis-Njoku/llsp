@@ -1,0 +1,28 @@
+type Course {
+  id: ID!
+  pictureUrl: String
+  title: String!
+  summary: String
+  description: String!
+  duration: String!
+  type: String!
+  price: Float!
+  discount: Float
+  instructor: Instructor!
+  bespokeAvailability: Boolean!
+  assessmentType: String!
+  learningObjectives: String!
+  trainingDates: String!
+  link: String
+  venue: String
+  createdBy: User!
+  createdOn: String!
+  updatedAt: String
+}
+
+type Query {
+  findCourses(
+    offset: Int!
+    limit: Int!
+  ): [Course!]!
+}

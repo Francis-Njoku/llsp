@@ -1,0 +1,29 @@
+type UpdateCourseResponse {
+  errors: [Error!]
+  message: String
+}
+
+input UpdateCourseInput {
+  pictureUrl: String
+  title: String
+  summary: String
+  description: String
+  duration: String
+  type: String
+  price: Float
+  discount: Float
+  instructorId: String
+  bespokeAvailability: Boolean
+  assessmentType: String
+  learningObjectives: String
+  trainingDates: String
+  link: String
+  venue: String
+}
+
+type Mutation {
+  updateCourse(
+    courseId: String!
+    input: UpdateCourseInput!
+  ): UpdateCourseResponse!
+}

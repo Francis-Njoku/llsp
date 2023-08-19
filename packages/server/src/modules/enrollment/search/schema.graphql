@@ -1,0 +1,11 @@
+input SearchEnrollmentsInput {
+  courseId: String
+}
+
+type Query {
+  searchEnrollments(
+    input: SearchEnrollmentsInput
+    offset: Int!
+    limit: Int!
+  ): [Enrollment!]!
+}

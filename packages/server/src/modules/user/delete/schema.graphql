@@ -1,0 +1,10 @@
+type DeleteAccountResponse {
+  errors: [Error!]
+  message: String
+}
+
+type Mutation {
+  deleteAccount(
+    id: String!
+  ): DeleteAccountResponse!
+}

@@ -1,0 +1,10 @@
+type DeleteEnrollmentResponse {
+  errors: [Error!]
+  message: String
+}
+
+type Mutation {
+  deleteEnrollment(
+    id: String!
+  ): DeleteEnrollmentResponse!
+}

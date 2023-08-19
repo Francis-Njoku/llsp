@@ -1,0 +1,7 @@
+<svg id="ico_menu_history_copy" data-name="ico/menu/history copy" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="ico_menu_fav_background" data-name="ico/menu/fav background" width="24" height="24" fill="none"/>
+  <g id="logout" transform="translate(3 3.5)">
+    <path id="Path_65" data-name="Path 65" d="M247.139,160.051l-.754.754,2.288,2.288h-7.555v1.066h7.555l-2.288,2.288.754.754,3.575-3.575Z" transform="translate(-233.656 -155.097)" fill="#c7c7c7"/>
+    <path id="Path_66" data-name="Path 66" d="M11.728,15.992H1.066V1.066H11.728V2.132h1.066V.533A.533.533,0,0,0,12.261,0H.533A.533.533,0,0,0,0,.533V16.525a.533.533,0,0,0,.533.533H12.261a.533.533,0,0,0,.533-.533v-1.6H11.728Z" transform="translate(0)" fill="#c7c7c7"/>
+  </g>
+</svg>

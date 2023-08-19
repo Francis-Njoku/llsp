@@ -1,0 +1,6 @@
+type Query {
+  completedEnrollments(
+    offset: Int!
+    limit: Int!
+  ): [Enrollment!]!
+}

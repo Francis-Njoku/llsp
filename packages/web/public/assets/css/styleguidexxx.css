@@ -1,0 +1,530 @@
+:root { 
+  --alabaster: #fbfbfb;
+  --black: #000000;
+  --black-2: #00000080;
+  --bon-jour: #e0e0e0;
+  --bon-jour-2: #e3e2e2;
+  --concord: #7b7b7b;
+  --desert-storm: #f8f8f8;
+  --eucalyptus: #25ab5b;
+  --fuscous-gray: #4e4d4d;
+  --grey4f4e4e: #828282;
+  --grey838383: #4f4e4e;
+  --greybebebe: #bebebe;
+  --mercury: #e8e6e6;
+  --onahau: #c7eeff;
+  --onahau-2: #c9eeff;
+  --onahau-3: #cef0ff;
+  --pattens-blue: #ddf5ff;
+  --picton-blue: #45b5e466;
+  --picton-blue-2: #45b5e359;
+  --pomegranate: #f9452c;
+  --primary-colour1f365d: #1f365d;
+  --primary-colour45b5e3: #45b5e3;
+  --quill-gray: #d4d4d4;
+  --quill-gray-2: #d5d5d5;
+  --san-juan: #38446e;
+  --solitude: #ebf9ff;
+  --white: #ffffff33;
+  --white-2: #ffffff26;
+  --whiteffffff: #ffffff;
+  --zircon: #f5fcff;
+  --zumthor: #ecf9ff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 36px;
+ 
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+  --font-family-sen: "Sen", Helvetica;
+}
+.sen-normal-quill-gray-16px {
+  color: var(--quill-gray);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-fuscous-gray-18px {
+  color: var(--grey838383);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-16px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-fuscous-gray-16px {
+  color: var(--grey838383);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-quill-gray-16px-2 {
+  color: var(--quill-gray-2);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-bold-picton-blue-24px {
+  color: var(--primary-colour45b5e3);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-cello-18px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-normal-white-16px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-gray-16px {
+  color: var(--grey4f4e4e);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-cello-16px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-gray-14px {
+  color: var(--grey4f4e4e);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-cello-22px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-silver-18px {
+  color: var(--greybebebe);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-gray-18px {
+  color: var(--grey4f4e4e);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-12px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-silver-16px {
+  color: var(--greybebebe);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-13px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-14px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-bold-cello-18px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-cello-12px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-picton-blue-18px {
+  color: var(--primary-colour45b5e3);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-cello-24px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-white-54px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-cello-36px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-bold-fuscous-gray-18px {
+  color: var(--grey838383);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-cello-32px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-bold-cello-36px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-cello-30px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-san-juan-24px {
+  color: var(--san-juan);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-concord-16px {
+  color: var(--concord);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-16px-2 {
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-bold-cello-24px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-bold-picton-blue-16px {
+  color: var(--primary-colour45b5e3);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-normal-fuscous-gray-16px {
+  color: var(--grey838383);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-18px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-cello-18px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-alabaster-14px {
+  color: var(--alabaster);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-cello-20px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-bold-cello-16px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-extra-bold-fuscous-gray-22px {
+  color: var(--grey838383);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.sen-normal-fuscous-gray-32px {
+  color: var(--grey838383);
+  font-family: var(--font-family-sen);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-normal-white-20px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-white-40px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-quill-gray-20px {
+  color: var(--quill-gray-2);
+  font-family: var(--font-family-sen);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-20px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-white-18px-2 {
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-normal-picton-blue-16px {
+  color: var(--primary-colour45b5e3);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-normal-fuscous-gray-20px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-playfair_display);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-bold-white-18px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-bon-jour-16px {
+  color: var(--bon-jour);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-white-28px {
+  color: var(--whiteffffff);
+  font-family: var(--font-family-playfair_display);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.playfairdisplay-bold-picton-blue-40px {
+  color: var(--primary-colour45b5e3);
+  font-family: var(--font-family-playfair_display);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-cello-22px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-cello-16px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sen-normal-cello-14px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sen-bold-cello-29px {
+  color: var(--primary-colour1f365d);
+  font-family: var(--font-family-sen);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-primary-colour1f365d {
+  border: 1px solid var(--primary-colour1f365d);
+}
+
+.border-1px-greybebebe {
+  border: 1px solid var(--greybebebe);
+}
+
+.border-1px-onahau {
+  border: 1px solid var(--onahau);
+}
+
+.border-1px-mercury {
+  border: 1px solid var(--mercury);
+}
+
+.border-1px-primary-colour45b5e3 {
+  border: 1px solid var(--primary-colour45b5e3);
+}
+
+.border-1px-picton-blue {
+  border: 1px solid var(--picton-blue);
+}
+
+.border-1px-bon-jour-2 {
+  border: 1px solid var(--bon-jour-2);
+}
+
+.border-1px-whiteffffff {
+  border: 1px solid var(--whiteffffff);
+}
+
+.border-1px-pattens-blue {
+  border: 1px solid var(--pattens-blue);
+}
+
+.border-1px-onahau-2 {
+  border: 1px solid var(--onahau-2);
+}
